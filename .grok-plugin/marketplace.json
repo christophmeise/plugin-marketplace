@@ -494,7 +494,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Scripe-GmbH/scripe-agent.git",
-        "sha": "b2dff0c136cc9cefc5b8cae2ce1f26c53340e9e0"
+        "sha": "19af45ac128c1d9051fb60b52fe148e910dc772c"
       },
       "homepage": "https://scripe.io/integrations/mcp-api",
       "keywords": [
